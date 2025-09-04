@@ -1,6 +1,4 @@
-## Engineering-Projects
-
-## Humidifier Circuit & 3D-Printed Casing
+## Humidifier Circuitry & 3D-Printed Casing
 
 This project was developed as part of a larger effort by my pre-professional engineering group to design **low-cost, implementable biomedical devices** for use in developing countries. The humidifier subsystem was created to regulate humidity in a **neonatal incubator**, supporting safe and affordable infant care.
 
